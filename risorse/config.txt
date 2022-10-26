@@ -1,0 +1,10 @@
+colors = red
+total = 10
+colored = 1
+title = battaglia
+##!
+colors = blue
+total = 6
+colored = 3
+title = oggetto
+##!
