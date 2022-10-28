@@ -1,10 +1,30 @@
-colors = red
-total = 10
-colored = 1
-title = battaglia
-##!
-colors = blue
+# Richiamo della natura
+color = red
 total = 6
-colored = 3
-title = oggetto
+colored = 4
+title = Natura
+##!
+# Ruggito del Leone
+color = red
+total = 6
+colored = 0
+title = Ruggito del Leone
+##!
+# Il fuoco divampa
+color = red
+total = 6
+colored = 0
+title = Il fuoco divampa
+##!
+color = red
+total = 12
+colored = 12
+title = Bilancia
+##!
+# obiettivo --> Non deve esistere la profezia
+# quindi potrebbe essere un viaggio temporale
+color = blue
+total = 12
+colored = 2
+title = Stella Cadente
 ##!
